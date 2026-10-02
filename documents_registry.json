@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "source": "Need Single ReadyNot Ready Signal for Acceptance.md",
+      "title": "Need Single \"Ready/Not Ready\" Signal for Acceptance",
+      "scope": "Приемка ЭПИКОВ в Jira: статус To Verify, готовность эпика к acceptance (FO/E2E/Design), уведомления QA в #bld_value_team и #design_suggestions, комментарии приемки, закрытие эпика, критические баги.",
+      "not_about": "Шаблоны постановки задач на дизайн/тестирование, создание запросов, заполнение инициативы, discovery-фаза"
+    },
+    {
+      "source": "Шаблоны за создание запросов.md",
+      "title": "Шаблоны за создание запросов",
+      "scope": "Шаблоны постановки задач: на дизайн (#design_suggestions), на тестовые стримы (#test-streams), на тестирование требований (#requirements-testing). Форматы сообщений для создания запросов.",
+      "not_about": "Процесс приемки эпиков (To Verify), статусы эпиков в Jira, закрытие эпиков после acceptance"
+    },
+    {
+      "source": "Заполнение инициативы.md",
+      "title": "Заполнение инициативы",
+      "scope": "Заполнение инициативы в Jira: Research, Effort, Progress, PD-таска, UX, child-задачи для платформ, информирование PO и RO, рефайнмент.",
+      "not_about": "Приемка эпиков, Slack-шаблоны постановки задач, discovery-фаза новых фич"
+    },
+    {
+      "source": "Common process of working with task.md",
+      "title": "Common process of working with task",
+      "scope": "Общий процесс работы с задачей: Discovery, анализ, estimation, requirements, migration, интеграции, acceptance criteria на этапе discovery/refinement.",
+      "not_about": "Операционная приемка эпиков (To Verify), шаблоны Slack-каналов для постановки задач"
+    }
+  ]
+}
